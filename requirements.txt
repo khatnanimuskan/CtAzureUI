@@ -96,7 +96,7 @@ public==2019.4.13
 py4j==0.10.7
 pycparser==2.18
 pycryptodome==3.6.4
-Pygments==2.3.1
+Pygments==2.7.4
 PyMySQL==0.9.3
 pyodbc==4.0.26
 pyrsistent==0.15.1
