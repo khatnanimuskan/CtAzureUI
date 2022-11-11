@@ -100,7 +100,7 @@ Pygments==2.3.1
 PyMySQL==0.9.3
 pyodbc==4.0.26
 pyrsistent==0.15.1
-pyspark==2.4.2
+pyspark==3.2.2
 python-dateutil==2.7.3
 python-magic==0.4.15
 pytz==2018.5
